@@ -1,12 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nwolu David</h1>
-<h3>
-👨‍💻 Backend Developer Extraordinaire! 👨‍💼
-🚀 Crafting high-performance APIs with FastAPI
-🐍 Python aficionado, mastering the art of clean and scalable code
-💡 Leveraging experience to architect robust backend solutions
-🔧 Constantly optimizing for efficiency and reliability
-💬 Let's code, collaborate, and elevate together!
-</h3>
+<h3 align="center">👨‍💻 Backend Developer Extraordinaire! 👨‍💼 🚀 Crafting high-performance APIs with FastAPI 🐍 Python aficionado, mastering the art of clean and scalable code 💡 Leveraging experience to architect robust backend solutions 🔧 Constantly optimizing for efficiency and reliability 💬 Let's code, collaborate, and elevate together!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nwoludavid&label=Profile%20views&color=0e75b6&style=flat" alt="nwoludavid" /> </p>
 
@@ -23,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@nwoludavid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nwoludavid" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/nwolu-david-067746201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nwoludavid" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/nwolu-david-067746201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nwolu-david-067746201" height="30" width="40" /></a>
 <a href="https://fb.com/nwoludavid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nwoludavid" height="30" width="40" /></a>
 </p>
 
@@ -33,6 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nwoludavid&show_icons=true&locale=en&layout=compact" alt="nwoludavid" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nwoludavid&show_icons=true&locale=en" alt="nwoludavid" /></p>
-
-- ⚡ Fun fact: ...
--->
